@@ -1,0 +1,5 @@
+veshti/Dhoti1,veshti/Dhoti2,veshti/Dhoti3,veshti/Dhoti4,veshti/Dhoti5,veshti/Dhoti6,veshti/Dhoti7,veshti/Dhoti8,veshti/Dhoti9,veshti/Dhoti10
+499,349,199,543,259,429,229,389,439,219
+white,Sandle,white,Sandle,white,Sandle,white,Sandle,white,Sandle
+M,S,L,S,M,L,S,L,M,S
+1.5,2.2,3.0,2.3,2.5,1.9,2.4,4.6,2.7,3.7

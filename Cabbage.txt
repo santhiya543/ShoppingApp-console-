@@ -1,0 +1,4 @@
+Cabbage1,Cabbage2,Cabbage3,Cabbage4,Cabbage5,Cabbage6,Cabbage7,Cabbage8,Cabbage9,Cabbage10
+499,349,199,543,259,429,229,389,439,219
+4.5,3.2,5.0,4.3,3.5,2.9,3.4,4.6,2.7,1.7
+4,3.5,5.0,4.3,3.5,2.9,3.4,4.6,2.7,1.7

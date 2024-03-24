@@ -1,0 +1,3 @@
+Platinum1,Platinum2,Platinum3,Platinum4,Platinum5,Platinum6,Platinum7,Platinum8,Platinum9,Platinum10
+4990,3490,1990,5430,2590,4290,2290,3890,4390,2190
+4.5,3.2,5.0,4.3,3.5,2.9,3.4,4.6,2.7,1.7

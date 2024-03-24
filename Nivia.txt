@@ -1,0 +1,5 @@
+Nivia1,Nivia2,Nivia3,Nivia4,Nivia5,Nivia6,Nivia7,Nivia8,Nivia9,Nivia10
+499,349,199,543,259,429,229,389,439,219
+white,black,White,blue,black&white,blue&white,black&white,blue,black,purple
+IND-6,IND-7,IND-6,IND-8,IND-5,IND-6,IND-7,IND-9,IND-8,IND-7
+1.5,2.2,1.0,2.3,2.5,1.9,2.4,1.6,2.7,1.7

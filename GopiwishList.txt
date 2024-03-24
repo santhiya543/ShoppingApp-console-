@@ -1,0 +1,8 @@
+Category: Fashion
+NAME: Nivia3
+COLOR: White
+SIZE: IND-6
+PRICE: 219.0
+RATING: 1.0
+CODE: 3
+Total Price: 219.0,

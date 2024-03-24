@@ -1,0 +1,13 @@
+
+NAME: Realme1
+PRICE: 49900
+RATING: 4.5
+CODE: 1
+Total Price: 0.0,
+
+NAME: Frock2
+PRICE: 349
+COLOR: Black
+SIZE: L
+RATING: 2.2
+CODE: 2

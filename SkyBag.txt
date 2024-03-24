@@ -1,0 +1,5 @@
+SkyBag1,SkyBag2,SkyBag3,SkyBag4,SkyBag5,SkyBag6,SkyBag7,SkyBag8,SkyBag9,SkyBag10
+499,349,199,543,259,429,229,389,439,219
+white,black,yellow,blue,black&white,red,green,Skyblue,orange,purple
+Free size,Free size,Free size,Free size,Free size,Free size,Free size,Free size,Free size,Free size
+1.5,2.2,1.0,2.3,2.5,1.9,2.4,1.6,2.7,1.7

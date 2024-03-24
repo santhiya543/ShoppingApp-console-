@@ -1,0 +1,5 @@
+Jeans1,Jeans2,Jeans3,Jeans4,Jeans5,Jeans6,Jeans7,Jeans8,Jeans9,Jeans10
+499,349,199,543,259,429,229,389,439,219
+White,Black,Sandle,Blue,Gray,Purple,Skyblue,Red,Black,Golden
+X,L,XL,X,XL,XL,X,L,XL,S
+1.5,2.2,1.0,2.3,2.5,1.9,2.4,1.6,2.7,1.7

@@ -1,0 +1,5 @@
+Puma1,Puma2,Puma3,Puma4,Puma5,Puma6,Puma7,Puma8,Puma9,Puma10
+499,349,199,543,259,429,229,389,439,219
+white,black,White,blue,black&white,blue&white,black&white,blue,black,purple
+IND-6,IND-7,IND-6,IND-8,IND-5,IND-6,IND-7,IND-9,IND-8,IND-7
+1.5,2.2,1.0,2.3,2.5,1.9,2.4,1.6,2.7,1.7

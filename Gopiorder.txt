@@ -1,0 +1,9 @@
+Category: Fashion
+NAME: TShirt5
+COLOR: black&white
+SIZE: M
+PRICE: 219.0
+RATING: 2.5
+SLEEVE: full sleeve
+NECK: roundCODE: 5
+Total Price: 219.0,

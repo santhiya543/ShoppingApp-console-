@@ -1,0 +1,5 @@
+WildCraft1,WildCraft2,WildCraft3,WildCraft4,WildCraft5,WildCraft6,WildCraft7,WildCraftt8,WildCraft9,WildCraft10
+white,black,yellow,blue,black&white,red,green,Skyblue,orange,purple
+Free size,Free size,Free size,Free size,Free size,Free size,Free size,Free size,Free size,Free size
+499,349,199,543,259,429,229,389,439,219
+1.5,2.2,1.0,2.3,2.5,1.9,2.4,1.6,2.7,1.7

@@ -1,0 +1,6 @@
+Combo sets1,Combo sets2,Combo sets3,Combo sets4,Combo sets5,Combo sets6,Combo sets7,Combo sets8,Combo sets9,Combo sets10
+499,349,199,543,259,429,229,389,439,219
+white,black,yellow,blue,black&white,red,green,Skyblue,orange,purple
+M,S,L,S,M,L,S,L,M,S
+1.5,2.2,1.0,2.3,2.5,1.9,2.4,1.6,2.7,1.7
+half sleeve,half sleeve,full sleeve,half sleeve,full sleeve,half sleeve,full sleeve,full sleeve,half sleeve,full sleeve

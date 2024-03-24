@@ -1,0 +1,4 @@
+Brinjal1,Brinjal2,Brinjal3,Brinjal4,Brinjal5,Brinjal6,Brinjal7,Brinjal8,Brinjal9,Brinjal10
+499,349,199,543,259,429,229,389,439,219
+4.5,3.2,5.0,4.3,3.5,2.9,3.4,4.6,2.7,1.7
+4,3.5,5.0,4.3,3.5,2.9,3.4,4.6,2.7,1.7

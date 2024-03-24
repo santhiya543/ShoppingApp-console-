@@ -1,0 +1,5 @@
+Lungi1,Lungi2,Lungi3,Lungi4,Lungi5,Lungi6,Lungi7,Lungi8,Lungi9,Lungi10
+499,349,199,543,259,429,229,389,439,219
+brown,black,purple,blue,Gray,Blue,black,brown,Gray,purple
+M,S,L,S,M,L,S,L,M,S
+1.5,2.2,3.0,2.3,2.5,1.9,2.4,4.6,2.7,3.7

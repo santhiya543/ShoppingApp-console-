@@ -1,0 +1,5 @@
+Track-pant1,Track-pant2,Track-pant3,Track-pant4,Track-pant5,Track-pant6,Track-pant7,Track-pant8,Track-pant9,Track-pant10
+499,349,199,543,259, 429,229,389,439,219
+white,black,Sandle,blue,Gray,Blue,black,white,Gray,Sandle
+M,S,L,S,M,L,S,L,M,S
+1.5,2.2,1.0,2.3,2.5,1.9,2.4,1.6,2.7,1.7

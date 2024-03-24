@@ -1,0 +1,24 @@
+
+NAME: TShirt6
+PRICE: 429
+COLOR: red
+SIZE: L
+RATING: 1.9
+SLEEVE: half sleeve
+CODE: 6
+Total Price: 429.0,
+
+NAME: Cabbage4
+PRICE: 543
+RATING: 4.3
+Weight: 4.3
+CODE: 4
+Total Price: 543.0,
+
+NAME: Frock7
+PRICE: 229
+COLOR: Skyblue
+SIZE: X
+RATING: 2.4
+CODE: 7
+Total Price: 229.0,

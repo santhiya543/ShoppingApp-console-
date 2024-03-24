@@ -1,0 +1,5 @@
+Pant1,Pant2,Pant3,Pant4,Pant5,Pant6,Pant7,Pant8,Pant9,Pant10
+499,349,199,543,259, 429,229,389,439,219
+white,black,Sandle,blue,Gray,Blue,black,white,Gray,Sandle
+M,S,L,S,M,L,S,L,M,S
+1.5,2.2,1.0,2.3,2.5,1.9,2.4,1.6,2.7,1.7
